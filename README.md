@@ -8,4 +8,4 @@ No Instaliation is required.
 
 ## Usage
 This website is mostly a information stoge site, It does have one feature though. It has quick find links. The Links are located in the to right of the page as seen in the immage below.
-![Image of website home page as refrance.](./Assets/images/week!%20final%20product%20immage%2001.PNG)
+![Image of website home page as refrance.](./assets/images/week!%20final%20product%20immage%2001.PNG)
